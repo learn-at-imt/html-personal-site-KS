@@ -1,0 +1,22 @@
+body{
+    background-color: #AEFEFF;
+    }
+    hr{
+       border-style: none;
+       border-top-style:dotted;
+       width:5%;
+       border-width: 5px;
+       border-color:grey;
+        
+    }
+    h1{
+        color: #FA4EAB;
+        
+    }
+    h3{
+        color:#FA4EAB ;
+    }
+    .kadi{
+        border-radius: 50%;
+        height: 200px;
+    }
